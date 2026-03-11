@@ -187,5 +187,5 @@ This approach enables dealerships to transition from manual pricing strategies t
 
 # 👨‍💻 Author
 
-Name: Shraddha Ingle
+**Name**: Shraddha Ingle
 Machine Learning | Data Science | Business Analytics
